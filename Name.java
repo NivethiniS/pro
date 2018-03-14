@@ -1,6 +1,6 @@
 package guviprogram;
 
-public class guvi
+public class Name
 {
 	String s1="hello";{
 	for( int i=0;i<=s1.length();i++)
